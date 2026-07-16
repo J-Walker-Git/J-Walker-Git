@@ -18,7 +18,7 @@ I have 20 years of telecoms experience having started as an apprentice Customer 
 
 After accepting a voluntary paid leave opportunity I am pivoting into cybersecurity — a natural transition driven by my ongoing passion for computers.
 
-🎯 **Current Goal:** Transition into a blue team cybersecurity role within the next 8 months.
+🎯 **Current Goal:** Transition into a blue team cybersecurity role within the next 12 months.
 
 🎯 **Future Goal:** Governance, Risk and Compliance role.
 
