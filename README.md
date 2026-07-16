@@ -1,135 +1,97 @@
-<!-- Banner -->
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<h1 align="center">Jordan Walker</h1>
-
-<h3 align="center">Field Based Co-ordinator | Future Cybersecurity Professional</h3>
+# Jordan Walker
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Telecommunications+Professional;CompTIA+Security%2B+Certified;Working+towards+CREST+CPSA+;Blue+Team+%7C+Defensive+Security;Building+Labs+%26+Learning+Every+Day" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:00FF9F&text=Jordan%20Walker&fontColor=FFFFFF&fontSize=58&fontAlignY=35&desc=Field%20Based%20Coordinator%20%E2%9E%9C%20Future%20Cybersecurity%20Professional&descAlignY=55&animation=fadeIn"/>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=00FF9F&center=true&vCenter=true&width=900&lines=19%2B+Years+in+Telecommunications;CompTIA+Security%2B+Certified;Working+towards+CREST+CPSA;Blue+Team+%7C+Defensive+Security;Building+Labs+Weekly"/>
+</p>
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=J-Walker-Git&style=for-the-badge&color=00FF9F)
+
+<a href="https://www.linkedin.com/in/jordan-walker-b8ba2b1b9">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://tryhackme.com/p/n4dr0j">
+<img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme"/>
+</a>
+
+<a href="https://github.com/J-Walker-Git">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
 ---
 
-# 👋🏾About Me
+# 💻 whoami
 
-I have 20 years of telecoms experience having started as an apprentice Customer Service Engineer and advancing to a Field-based Co-ordinator Role responsible for upgrading the Openreach Network to Full Fibre Broadband.
+```text
+Jordan Walker
 
-After accepting a voluntary paid leave opportunity I am pivoting into cybersecurity — a natural transition driven by my ongoing passion for computers.
+STATUS        : Available for Cybersecurity Opportunities
+LOCATION      : Leicester, United Kingdom
+EXPERIENCE    : 19+ Years
+CERTIFICATION : CompTIA Security+
+STUDYING      : CREST CPSA
+TARGET ROLE   : Blue Team | SOC Analyst
+LONG TERM     : Governance, Risk & Compliance
+```
 
-🎯 **Current Goal:** Transition into a blue team cybersecurity role within the next 12 months.
+## 👋 About Me
 
-🎯 **Future Goal:** Governance, Risk and Compliance role.
+For more than **19 years** I've worked in telecommunications, progressing from **Apprentice Customer Service Engineer** to **Field Based Coordinator**, supporting the delivery of Openreach's nationwide Full Fibre rollout.
 
-## Currently
+I'm now transitioning into cybersecurity by combining my networking and infrastructure experience with hands-on labs, certifications and practical security projects.
+
+> **Mission:** Protect the networks I've spent my career helping to build.
+
+## 🎯 Current Mission
 
 - ✅ CompTIA Security+ Certified
 - 📚 Studying for CREST CPSA
-- 🛠 Building home lab projects
-- 🔍 Learning network security, SIEM and threat detection
-- ☁ Expanding cloud security knowledge
+- 🔐 Building an Active Directory Home Lab
+- 🛡 Learning Microsoft Sentinel & SIEM
+- ☁ Expanding Azure security knowledge
+- 🐍 Learning Python & PowerShell
 
----
-
-# 🏆 Certifications
-
-| Certification | Status |
-|---------------|--------|
-| CompTIA Security+ | ✅ Certified |
-| CREST CPSA | 📖 In Progress |
-
----
-
-# 🛠 Technical Skills
-
-### Networking
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-grey?style=for-the-badge)
-![Routing](https://img.shields.io/badge/Routing-grey?style=for-the-badge)
-![Switching](https://img.shields.io/badge/Switching-grey?style=for-the-badge)
-![VoIP](https://img.shields.io/badge/VoIP-grey?style=for-the-badge)
-
-### Security
-
-![Security+](https://img.shields.io/badge/CompTIA-Security+-red?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-
-### Learning
-
-- Microsoft Sentinel
-- Splunk
-- Active Directory
-- Azure
-- Burp Suite
-- OWASP Top 10
-- Python
-- PowerShell
-
----
-
-# 🚀 Current Projects
-
-🔐 Active Directory Home Lab
-
-🛡 Vulnerability Assessment Lab
-
-📈 SIEM Detection Lab
-
-🌐 Network Security Monitoring
-
-🐍 Python Security Scripts
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📚 Current Learning Journey
+## 📈 Career Timeline
 
 ```text
-████████████████████░░░░░ 80%
-
-Transition to Cybersecurity
-
-✔ Networking Fundamentals
-✔ Security+
-✔ Linux
-✔ Windows
-✔ Networking
-✔ Home Labs
-◉ CREST CPSA
-○ Detection Engineering
-○ Malware Analysis
+Apprentice Engineer
+      │
+      ▼
+Telecommunications Engineer
+      │
+      ▼
+Field Based Coordinator
+(Openreach Full Fibre)
+      │
+      ▼
+CompTIA Security+
+      │
+      ▼
+CREST CPSA
+      │
+      ▼
+Blue Team / SOC Analyst
+      │
+      ▼
+Governance, Risk & Compliance
 ```
 
----
+## 📊 GitHub Stats
 
-# 🎯 2026 Goals
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Walker-Git&show_icons=true&theme=tokyonight&hide_border=true)
 
-- Acheive CREST CPSA
-- Publish 5+ cybersecurity projects
-- Land my first cybersecurity role
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-Walker-Git&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Walker-Git&layout=compact&theme=tokyonight&hide_border=true)
 
-# 📫 Connect
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=J-Walker-Git&theme=github-compact)
 
-- LinkedIn
-- GitHub
-- TryHackMe
-
-> *"Strong networking knowledge is the foundation of strong cybersecurity."*
+> *"After two decades building the networks that connect people, I'm now building the skills to protect them."*
