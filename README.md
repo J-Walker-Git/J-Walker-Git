@@ -1,9 +1,6 @@
 # Jordan Walker - Cyber Defence Operations Centre
 
-<div align="center">
-  <!-- 🟢 Top Terminal Banner Graphic -->
-  <img src="https://githubusercontent.com" alt="Jordan Walker SOC Dashboard Banner" width="100%" />
-</div>
+![Jordan Walker SOC Dashboard Banner](https://githubusercontent.com)
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════╗
