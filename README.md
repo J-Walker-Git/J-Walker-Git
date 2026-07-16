@@ -42,7 +42,7 @@ TARGET ROLE   : Blue Team | SOC Analyst
 LONG TERM     : Governance, Risk & Compliance
 ```
 
-## 👋 About Me
+## 👋🏾 About Me
 
 For more than **19 years** I've worked in telecommunications, progressing from **Apprentice Customer Service Engineer** to **Field Based Coordinator**, supporting the delivery of Openreach's nationwide Full Fibre rollout.
 
