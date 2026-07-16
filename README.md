@@ -1,33 +1,16 @@
 # Jordan Walker - Cyber Defence Operations Centre
 
-<table width="100%">
-  <tr>
-    <td bgcolor="#030904" align="left" style="padding: 20px; border: 2px solid #005511; font-family: monospace;">
-      <b style="color: #008833; font-size: 13px;">[ SYSTEM INFRASTRUCTURE PROFILE INITIALISED ]</b><br><br>
-      <h1 style="color: #00ff66; margin: 0; font-size: 26px; font-family: monospace; letter-spacing: 1px;">OPERATOR: JORDAN WALKER</h1>
-      <code style="color: #00ccff; font-size: 13px; font-weight: bold; display: block; margin-top: 5px;">HOOK: 20+ YRS TELECOM INFRASTRUCTURE // DEFENDING THE NETWORKS I BUILT</code>
-      <hr stroke="#003311" style="border: 0; border-top: 1px solid #003311; margin: 15px 0;">
-      <table width="100%" style="font-family: monospace; border: none;">
-        <tr style="border: none;">
-          <td width="30%" style="color: #008833; border: none; padding: 2px;"><b>CURRENT_ASSIGNMENT:</b></td>
-          <td width="70%" style="color: #00ff66; border: none; padding: 2px;">BLUE TEAM // SOC OPERATIONS</td>
-        </tr>
-        <tr style="border: none;">
-          <td style="color: #008833; border: none; padding: 2px;"><b>TARGET_VELOCITY:</b></td>
-          <td style="color: #00ff66; border: none; padding: 2px;">GOVERNANCE, RISK & COMPLIANCE (GRC)</td>
-        </tr>
-        <tr style="border: none;">
-          <td style="color: #008833; border: none; padding: 2px;"><b>VERIFIED_CLEARANCE:</b></td>
-          <td style="color: #00ff66; border: none; padding: 2px;">CompTIA Security+ Certified</td>
-        </tr>
-        <tr style="border: none;">
-          <td style="color: #008833; border: none; padding: 2px;"><b>OPERATIONAL_STATUS:</b></td>
-          <td style="color: #00ff66; border: none; padding: 2px;">🟢 ONLINE // MONITORING TRAFFIC</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+```json
+{
+  "SYSTEM_STATUS":     "INITIALISED // PROFILE ONLINE",
+  "OPERATOR":          "JORDAN WALKER",
+  "IDENTITY_HOOK":     "20+ YRS TELECOM INFRASTRUCTURE // DEFENDING THE NETWORKS I BUILT",
+  "CURRENT_ROLE":      "BLUE TEAM // SOC ANALYST OPERATIONS IN TRAINING",
+  "TARGET_VELOCITY":  "GOVERNANCE, RISK & COMPLIANCE (GRC) // STANDARDS INTEGRITY",
+  "ACTIVE_CLEARANCE":  "CompTIA Security+ VERIFIED",
+  "TELEMETRY_LOGS":    "🟢 ACTIVE // MONITORING LIVE TRAFFIC"
+}
+```
 
 ```text
   ┌────────────────────────────────────────────────────────────────────────┐
