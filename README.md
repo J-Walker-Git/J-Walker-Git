@@ -94,12 +94,14 @@ PYTHON:     █████████░░░░░░░░░░░░░�
 
 ---
 
-### 📊 THREAT INTELLIGENCE & RECONNAISSANCE
+### 📊 THREAT INTELLIGENCE & TELEMETRY LOGS
 
-<div align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%"/>
-  <img src="https://vercel.app" alt="Top Languages" width="48%"/>
-</div>
+```📊
+[RECONNAISSANCE SYSTEMS]: ACTIVE
+[TOTAL SECURITY REPOS]:  02          [CURRENT OBJECTIVES]:    02
+[COMMITS REGISTERED]:    ACTIVE      [ALERT PROFILE]:         LOW
+[PRIMARY TELEMETRY]:     MARKDOWN // SYSTEM SVGs // SHELL // KQL
+```
 
 <br />
 
