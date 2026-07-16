@@ -1,97 +1,200 @@
-# Jordan Walker
+# Jordan Walker - Cyber Defence Operations Centre
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:00FF9F&text=Jordan%20Walker&fontColor=FFFFFF&fontSize=58&fontAlignY=35&desc=Field%20Based%20Coordinator%20%E2%9E%9C%20Future%20Cybersecurity%20Professional&descAlignY=55&animation=fadeIn"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=00FF9F&center=true&vCenter=true&width=900&lines=19%2B+Years+in+Telecommunications;CompTIA+Security%2B+Certified;Working+towards+CREST+CPSA;Blue+Team+%7C+Defensive+Security;Building+Labs+Weekly"/>
-</p>
+```xml
+<svg xmlns="http://w3.org" viewBox="0 0 840 260" width="100%" height="auto">
+  <defs>
+    <!-- Fonts -->
+    <style>
+      @import url('https://googleapis.com');
+      .terminal-text { font-family: 'Share Tech Mono', monospace; fill: #00ff66; }
+      .dim-text { font-family: 'Share Tech Mono', monospace; fill: #008833; }
+      .alert-text { font-family: 'Share Tech Mono', monospace; fill: #00ccff; }
+      
+      /* Animations */
+      @keyframes pulse { 0% { opacity: 0.3; } 50% { opacity: 1; } 100% { opacity: 0.3; } }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      @keyframes scanline { 0% { transform: translateY(-260px); } 100% { transform: translateY(260px); } }
+      @keyframes typing { from { width: 0; } to { width: 100%; } }
+      
+      .pulsing { animation: pulse 2s infinite; }
+      .blinking { animation: blink 1s infinite; }
+      .scan { animation: scanline 6s linear infinite; }
+    </style>
+    
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00220a" stroke-width="1"/>
+    </pattern>
+    
+    <!-- Scanline Gradient -->
+    <linearGradient id="scan-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00ff66" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00ff66" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#00ff66" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
 
-<p align="center">
+  <!-- Background -->
+  <rect width="840" height="260" fill="#030904" rx="8"/>
+  <rect width="840" height="260" fill="url(#grid)" rx="8"/>
+  
+  <!-- Radar / Node Graphics (Right Side) -->
+  <g transform="translate(680, 130)">
+    <circle r="100" fill="none" stroke="#004411" stroke-width="1" />
+    <circle r="70" fill="none" stroke="#004411" stroke-width="1" stroke-dasharray="4 4" />
+    <circle r="40" fill="none" stroke="#004411" stroke-width="1" />
+    <line x1="-110" y1="0" x2="110" y2="0" stroke="#00330a" stroke-width="1" />
+    <line x1="0" y1="-110" x2="0" y2="110" stroke="#00330a" stroke-width="1" />
+    
+    <!-- Telecom / Network Nodes -->
+    <g class="pulsing">
+      <line x1="-50" y1="-30" x2="20" y2="40" stroke="#008833" stroke-width="1.5"/>
+      <line x1="20" y1="40" x2="60" y2="-20" stroke="#008833" stroke-width="1.5"/>
+      <circle cx="-50" cy="-30" r="4" fill="#00ff66" />
+      <circle cx="20" cy="40" r="5" fill="#00ff66" />
+      <circle cx="60" cy="-20" r="4" fill="#00ff66" />
+    </g>
+    <path d="M 0 0 L 70 -70" stroke="#00ff66" stroke-width="2" opacity="0.4" stroke-linecap="round"/>
+  </g>
 
-![](https://komarev.com/ghpvc/?username=J-Walker-Git&style=for-the-badge&color=00FF9F)
+  <!-- Moving Scanline Effect -->
+  <g class="scan">
+    <rect width="840" height="40" fill="url(#scan-grad)"/>
+  </g>
 
-<a href="https://www.linkedin.com/in/jordan-walker-b8ba2b1b9">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+  <!-- Terminal Frame -->
+  <rect x="15" y="15" width="810" height="230" fill="none" stroke="#004411" stroke-width="1" rx="4"/>
 
-<a href="https://tryhackme.com/p/n4dr0j">
-<img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme"/>
-</a>
+  <!-- Boot Text Sequence -->
+  <text x="35" y="50" class="dim-text" font-size="14">INITIALISING SECURITY PROFILE...</text>
+  <text x="35" y="75" class="terminal-text" font-size="24" font-weight="bold">OPERATOR: JORDAN WALKER</text>
+  <text x="35" y="105" class="alert-text" font-size="14" font-weight="bold">HOOK: 20+ YRS TELECOM INFRASTRUCTURE // DEFENDING THE NETWORKS I BUILT</text>
+  
+  <!-- Status Info Dashboard -->
+  <text x="35" y="150" class="dim-text" font-size="14">ASSIGNMENT:</text>
+  <text x="135" y="150" class="terminal-text" font-size="14">BLUE TEAM // SOC OPERATIONS</text>
+  
+  <text x="35" y="175" class="dim-text" font-size="14">TARGET FOCUS:</text>
+  <text x="135" y="175" class="terminal-text" font-size="14">GOVERNANCE, RISK &amp; COMPLIANCE (GRC)</text>
 
-<a href="https://github.com/J-Walker-Git">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
+  <text x="35" y="200" class="dim-text" font-size="14">CLEARANCE:</text>
+  <text x="135" y="200" class="terminal-text" font-size="14">CompTIA Security+ Verified</text>
 
-</p>
+  <text x="35" y="225" class="dim-text" font-size="14">SYS_STATUS:</text>
+  <text x="135" y="225" class="terminal-text" font-size="14" font-weight="bold">ONLINE</text>
+  <circle cx="195" cy="221" r="5" fill="#00ff66" class="blinking"/>
+</svg>
+```
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════════════════════╗
+║                    J-WALKER CYBER DEFENCE OPERATIONS                     ║
+║                  SOC PROFILE // BLUE TEAM ARCHITECTURE                  ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+### 🛰️ MISSION STATUS
+
+```text
+🟢 NETWORK DEFENCE ...................... ACTIVE (20+ Years Telecom Base)
+🟢 SIEM TELEMETRY ....................... ACTIVE (Sentinel Labs)
+🟡 RISK & STANDARDS COMPLIANCE .......... IN PROGRESS (GRC Alignment)
+🟡 CREST CPSA ........................... CORE TRAINING UNDERWAY
+```
 
 ---
 
-# 💻 whoami
+### 🛡️ OPERATOR PROFILE
+
+> **"I have spent the past two decades Designing, building and maintaining the Openreach telecommunications network. Now, I am specialising in defending the very networks I helped build."**
+
+My transition from a career in telecommunications to defensive cyber operations gives me a ground-up understanding of packet transit, hardware vulnerabilities, and enterprise infrastructure. My long term aim is **GRC (Governance, Risk, and Compliance)**— having a respect for policies and procedures my future goal is to ensure companies operate strictly to correct security standards.
+
+---
+
+### 🧰 SECURITY TOOLKIT
 
 ```text
-Jordan Walker
-
-STATUS        : Available for Cybersecurity Opportunities
-LOCATION      : Leicester, United Kingdom
-EXPERIENCE    : 19+ Years
-CERTIFICATION : CompTIA Security+
-STUDYING      : CREST CPSA
-TARGET ROLE   : Blue Team | SOC Analyst
-LONG TERM     : Governance, Risk & Compliance
+NETWORKS       ██████████████████████████████ 100% (Core Infrastructure)
+WINDOWS        ████████████████████████░░░░░░  80% (Sysmon & Event Logs)
+LINUX          ██████████████████░░░░░░░░░░░░  60% (Hardening & Auditing)
+SIEM / KQL     ███████████████░░░░░░░░░░░░░░░  50% (Microsoft Sentinel)
+PYTHON         █████████░░░░░░░░░░░░░░░░░░░░░  30% (Automation Scripts)
 ```
 
-## 👋🏾 About Me
+---
 
-For more than **19 years** I've worked in telecommunications, progressing from **Apprentice Customer Service Engineer** to **Field Based Coordinator**, supporting the delivery of Openreach's nationwide Full Fibre rollout.
+### ⚔️ ACTIVE OPERATIONS (SECURITY LABS)
 
-I'm now transitioning into cybersecurity by combining my networking and infrastructure experience with hands-on labs, certifications and practical security projects.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Active Directory Home Lab</h4>
+      <code>STATUS: DEPLOYED & TESTING</code><br>
+      <p><b>Objective:</b> Attack surface simulation and detection engineering.</p>
+      <ul>
+        <li>Configured Windows Server 2022 Domain Controller.</li>
+        <li>Ingesting telemetry into centralized log management.</li>
+        <li>Writing custom detection rules for credential dumping attempts.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Azure Sentinel SIEM Lab</h4>
+      <code>STATUS: THREAT HUNTING</code><br>
+      <p><b>Objective:</b> Live log analysis and incident mapping.</p>
+      <ul>
+        <li>Mapped brute-force ingestion pipelines using KQL queries.</li>
+        <li>Created customized analytic rules for suspicious insider threats.</li>
+        <li>Configured alert triggers matching MITRE ATT&CK sub-techniques.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-> **Mission:** Protect the networks I've spent my career helping to build.
+---
 
-## 🎯 Current Mission
+### 📑 CERTIFICATION DATABASE & COMPLIANCE LOGS
 
-- ✅ CompTIA Security+ Certified
-- 📚 Studying for CREST CPSA
-- 🔐 Building an Active Directory Home Lab
-- 🛡 Learning Microsoft Sentinel & SIEM
-- ☁ Expanding Azure security knowledge
-- 🐍 Learning Python & PowerShell
+* **CompTIA Security+** — `ID: VERIFIED`
+* **CREST CPSA (Cert. Professional Security Analyst)** — `STATUS: IN TRAINING`
+* **ISO/IEC 27001 Foundation Frameworks** — `STATUS: INDEPENDENT STUDY`
 
-## 📈 Career Timeline
+---
+
+### ⏳ CAREER CHRONOLOGY
 
 ```text
-Apprentice Engineer
-      │
-      ▼
-Telecommunications Engineer
-      │
-      ▼
-Field Based Coordinator
-(Openreach Full Fibre)
-      │
-      ▼
-CompTIA Security+
-      │
-      ▼
-CREST CPSA
-      │
-      ▼
-Blue Team / SOC Analyst
-      │
-      ▼
-Governance, Risk & Compliance
+ [2006] Telecom Apprentice Engineer  ──► Exchange to End-user Openreach Network maintenance
+   │
+ [2009] Customer Service Engineer     ──► Installation and repair of copper telephone and broadband network
+   │
+ [2018] Senior Engineer               ──► Complex fault resolution
+   │
+ [2019] Openreach Field Coordinator   ──► Managing technical standards & SLA compliance
+   │
+ [2026] Cyber Security Pivot          ──► CompTIA Security+ Verified // SOC Strategy
+   │
+ [⚡]   Blue Team SOC Analyst         ──► TARGET ROLE (Incident Detection & Response)
+   │
+ [🎯]   GRC Professional              ──► LONG-TERM DESTINATION (Enforcing Industry Standards)
 ```
 
-## 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Walker-Git&show_icons=true&theme=tokyonight&hide_border=true)
+### 📊 THREAT INTELLIGENCE & RECONNAISSANCE
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-Walker-Git&theme=tokyonight&hide_border=true)
+<div align="left">
+  <!-- Feel free to swap these URLs with your actual statistics URLs or remove if you prefer purely custom logs -->
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%"/>
+  <img src="https://vercel.app" alt="Top Languages" width="48%"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Walker-Git&layout=compact&theme=tokyonight&hide_border=true)
+<br />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=J-Walker-Git&theme=github-compact)
-
-> *"After two decades building the networks that connect people, I'm now building the skills to protect them."*
+```text
+[SYSTEM TERMINAL CLOSED] ──────────────────────────────────────────────────────────────────────────
+```
