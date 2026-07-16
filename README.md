@@ -1,20 +1,27 @@
 <!-- Banner -->
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">Telecommunications Engineer | Future Cybersecurity Professional</h3>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Telecommunications+Professional;CompTIA+Security%2B+Certified;CREST+CPSA+Candidate;Blue+Team+%7C+Defensive+Security;Building+Labs+%26+Learning+Every+Day" />
-</p>
+        Jordan Walker
 
+ Current Field Based Co-ordinator
+      → Cybersecurity Professional
+
+ CompTIA Security+ Certified | Working towards CREST CPSA
+
+ Network Security • Blue Team • Home Labs
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ---
 
-# 👨‍💻 About Me
+# 👋🏾About Me
 
-I'm an experienced telecommunications professional currently transitioning into cybersecurity.
+I have 20 years of telecoms experience having started as an apprentice Customer Service Engineer and advancing to a Field-based Co-ordinator Role responsible for upgrading the Openreach Network to Full Fibre Broadband.
 
-After years of designing, troubleshooting and supporting critical communications infrastructure, I'm now applying those analytical and problem-solving skills to information security.
+After accepting a voluntary paid leave opportunity I am pivoting into cybersecurity — a natural transition driven by my ongoing passion for computers.
 
-🎯 **Current Goal:** Transition into cybersecurity within the next 8 months.
+🎯 **Current Goal:** Transition into a blue team cybersecurity role within the next 8 months.
+
+🎯 **Future Goal:** Governance, Risk and Compliance role.
 
 ## Currently
 
@@ -114,10 +121,8 @@ Transition to Cybersecurity
 
 # 🎯 2026 Goals
 
-- Earn CREST CPSA
-- Publish 15+ cybersecurity projects
-- Complete multiple home labs
-- Contribute to open source security tools
+- Acheive CREST CPSA
+- Publish 5+ cybersecurity projects
 - Land my first cybersecurity role
 
 ---
@@ -127,6 +132,5 @@ Transition to Cybersecurity
 - LinkedIn
 - GitHub
 - TryHackMe
-- Hack The Box
 
 > *"Strong networking knowledge is the foundation of strong cybersecurity."*
