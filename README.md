@@ -1,16 +1,15 @@
 <!-- Banner -->
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-        Jordan Walker
+<h1 align="center">Jordan Walker</h1>
 
- Current Field Based Co-ordinator
-      → Cybersecurity Professional
+<h3 align="center">Field Based Co-ordinator | Future Cybersecurity Professional</h3>
 
- CompTIA Security+ Certified | Working towards CREST CPSA
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Telecommunications+Professional;CompTIA+Security%2B+Certified;Working+towards+CREST+CPSA+;Blue+Team+%7C+Defensive+Security;Building+Labs+%26+Learning+Every+Day" />
+</p>
 
- Network Security • Blue Team • Home Labs
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ---
 
 # 👋🏾About Me
