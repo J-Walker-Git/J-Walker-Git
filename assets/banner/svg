@@ -1,11 +1,10 @@
 <svg xmlns="http://w3.org" viewBox="0 0 840 260" width="100%" height="auto">
   <defs>
-    <!-- Fonts -->
+    <!-- Cross-Platform Native Monospace Fonts -->
     <style>
-      @import url('https://googleapis.com');
-      .terminal-text { font-family: 'Share Tech Mono', monospace; fill: #00ff66; }
-      .dim-text { font-family: 'Share Tech Mono', monospace; fill: #008833; }
-      .alert-text { font-family: 'Share Tech Mono', monospace; fill: #00ccff; }
+      .terminal-text { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Consolas, 'Courier New', monospace; fill: #00ff66; font-weight: bold; }
+      .dim-text { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Consolas, 'Courier New', monospace; fill: #008833; font-weight: bold; }
+      .alert-text { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Consolas, 'Courier New', monospace; fill: #00ccff; font-weight: bold; }
       
       /* Animations */
       @keyframes pulse { 0% { opacity: 0.3; } 50% { opacity: 1; } 100% { opacity: 0.3; } }
@@ -62,22 +61,21 @@
   <rect x="15" y="15" width="810" height="230" fill="none" stroke="#004411" stroke-width="1" rx="4"/>
 
   <!-- Boot Text Sequence -->
-  <text x="35" y="50" class="dim-text" font-size="14">INITIALISING SECURITY PROFILE...</text>
-  <text x="35" y="75" class="terminal-text" font-size="24" font-weight="bold">OPERATOR: JORDAN WALKER</text>
-  <text x="35" y="105" class="alert-text" font-size="14" font-weight="bold">HOOK: 20+ YRS TELECOM INFRASTRUCTURE // DEFENDING THE NETWORKS I BUILT</text>
+  <text x="35" y="50" class="dim-text" font-size="13">INITIALISING SECURITY PROFILE...</text>
+  <text x="35" y="75" class="terminal-text" font-size="22">OPERATOR: JORDAN WALKER</text>
+  <text x="35" y="105" class="alert-text" font-size="13">HOOK: 20+ YRS TELECOM INFRASTRUCTURE // DEFENDING THE NETWORKS I BUILT</text>
   
   <!-- Status Info Dashboard -->
-  <text x="35" y="150" class="dim-text" font-size="14">ASSIGNMENT:</text>
-  <text x="135" y="150" class="terminal-text" font-size="14">BLUE TEAM // SOC OPERATIONS</text>
+  <text x="35" y="150" class="dim-text" font-size="13">ASSIGNMENT:</text>
+  <text x="155" y="150" class="terminal-text" font-size="13">BLUE TEAM // SOC OPERATIONS</text>
   
-  <text x="35" y="175" class="dim-text" font-size="14">TARGET FOCUS:</text>
-  <text x="135" y="175" class="terminal-text" font-size="14">GOVERNANCE, RISK &amp; COMPLIANCE (GRC)</text>
+  <text x="35" y="175" class="dim-text" font-size="13">TARGET FOCUS:</text>
+  <text x="155" y="175" class="terminal-text" font-size="13">GOVERNANCE, RISK &amp; COMPLIANCE (GRC)</text>
 
-  <text x="35" y="200" class="dim-text" font-size="14">CLEARANCE:</text>
-  <text x="135" y="200" class="terminal-text" font-size="14">CompTIA Security+ Verified</text>
+  <text x="35" y="200" class="dim-text" font-size="13">CLEARANCE:</text>
+  <text x="155" y="200" class="terminal-text" font-size="13">CompTIA Security+ Verified</text>
 
-  <text x="35" y="225" class="dim-text" font-size="14">SYS_STATUS:</text>
-  <text x="135" y="225" class="terminal-text" font-size="14" font-weight="bold">ONLINE</text>
-  <circle cx="195" cy="221" r="5" fill="#00ff66" class="blinking"/>
+  <text x="35" y="225" class="dim-text" font-size="13">SYS_STATUS:</text>
+  <text x="155" y="225" class="terminal-text" font-size="13">ONLINE</text>
+  <circle cx="215" cy="221" r="5" fill="#00ff66" class="blinking"/>
 </svg>
-
