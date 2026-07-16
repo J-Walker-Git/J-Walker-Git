@@ -1,8 +1,7 @@
 # Jordan Walker - Cyber Defence Operations Centre
 
 <div align="center">
-  <!-- 🟢 Top Terminal Banner Graphic -->
-  <img src="assets/banner.svg" alt="Jordan Walker SOC Dashboard Banner" width="100%" />
+  <img src="https://githubusercontent.com" alt="Jordan Walker SOC Dashboard Banner" width="100%" />
 </div>
 
 ```text
@@ -83,15 +82,15 @@ PYTHON         █████████░░░░░░░░░░░░�
 ### ⏳ CAREER CHRONOLOGY
 
 ```text
- [2006] Telecom Apprentice Engineer  ──► Exchange to End-user Openreach Network maintenance
+ Telecom Apprentice Engineer  ──► Exchange to End-user Openreach Network maintenance
    │
- [2009] Customer Service Engineer     ──► Installation and repair of copper telephone and broadband network
+ Customer Service Engineer     ──► Installation and repair of copper telephone and broadband network
    │
- [2018] Senior Engineer               ──► Complex fault resolution
+ Senior Engineer               ──► Complex fault resolution
    │
- [2019] Openreach Field Coordinator   ──► Managing technical standards & SLA compliance
+ Openreach Field Coordinator   ──► Managing technical standards & SLA compliance
    │
- [2026] Cyber Security Pivot          ──► CompTIA Security+ Verified // SOC Strategy
+ Cyber Security Pivot          ──► CompTIA Security+ Verified // SOC Strategy
    │
  [⚡]   Blue Team SOC Analyst         ──► TARGET ROLE (Incident Detection & Response)
    │
@@ -103,7 +102,6 @@ PYTHON         █████████░░░░░░░░░░░░�
 ### 📊 THREAT INTELLIGENCE & RECONNAISSANCE
 
 <div align="left">
-  <!-- 🟢 Fixed Github Live Telemetry Cards mapped to J-Walker-Git -->
   <img src="https://vercel.app" alt="GitHub Stats" width="48%"/>
   <img src="https://vercel.app" alt="Top Languages" width="48%"/>
 </div>
