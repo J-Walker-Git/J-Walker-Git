@@ -1,6 +1,7 @@
 # Jordan Walker - Cyber Defence Operations Centre
 
 <div align="center">
+  <!-- 🟢 Top Terminal Banner Graphic -->
   <img src="assets/banner.svg" alt="Jordan Walker SOC Dashboard Banner" width="100%" />
 </div>
 
@@ -24,9 +25,9 @@
 
 ### 🛡️ OPERATOR PROFILE
 
-> **"I have spent the past two decades Designing, building and maintaining the Openreach telecommunications network. Now, I am specialising in defending the very networks I helped build."**
+> **"I have spent the past two decades designing, building, and maintaining the Openreach telecommunications network. Now, I am specialising in defending the very networks I helped build."**
 
-My transition from a career in telecommunications to defensive cyber operations gives me a ground-up understanding of packet transit, hardware vulnerabilities, and enterprise infrastructure. My long term aim is **GRC (Governance, Risk, and Compliance)**— having a respect for policies and procedures my future goal is to ensure companies operate strictly to correct security standards.
+My transition from a career in telecommunications to defensive cyber operations gives me a ground-up understanding of packet transit, hardware vulnerabilities, and enterprise infrastructure. My long-term aim is GRC (Governance, Risk, and Compliance)—having a deep respect for policies and procedures, my future goal is to ensure companies operate strictly to the correct security standards.
 
 ---
 
@@ -102,7 +103,7 @@ PYTHON         █████████░░░░░░░░░░░░�
 ### 📊 THREAT INTELLIGENCE & RECONNAISSANCE
 
 <div align="left">
-  <!-- Feel free to swap these URLs with your actual statistics URLs or remove if you prefer purely custom logs -->
+  <!-- 🟢 Fixed Github Live Telemetry Cards mapped to J-Walker-Git -->
   <img src="https://vercel.app" alt="GitHub Stats" width="48%"/>
   <img src="https://vercel.app" alt="Top Languages" width="48%"/>
 </div>
